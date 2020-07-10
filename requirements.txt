@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+plotly-express
+voila
+numpy
+plotly
+seaborn
+datetime
+warnings
